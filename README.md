@@ -2,6 +2,9 @@
 
 ## 미리보기
 
+## 화면보기
+npm run dev
+
 ## 설치
 `npm create vue@latest`
 
